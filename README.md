@@ -44,7 +44,7 @@ I follow a disciplined weekly learning rotation to build a robust, well-rounded 
   > 
   > **Task:** My primary objective was to maintain academic excellence (targeting a 3.75+ GPA) while gaining practical, real-world experience in leadership, teaching, and software development.
   > 
-  > **Action:** I organized a digital soft-skills seminar for SMKN 4 Kendari students. During my internship at SMKN 3 Kendari, I taught programming and built a web-based student data collection system (*Pendataan Siswa PKL*) utilizing Google Apps Script and WordPress.
+  > **Action:** I organized a digital soft-skills seminar for SMKN 4 Kendari students. During my internship at SMKN 3 Kendari, I taught programming and built a web-based student data collection system (*Pendataan Siswa PKL*) utilizing Google Apps Script.
   > 
   > **Result:** I achieved a **3.81 cumulative GPA** and contributed as a writer to **two published academic papers** based on my community and internship projects.
 </details>
